@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper{
+	width:800px;
+	margin: 0 auto;
+	padding:10px;
+	height:auto;
+	display:block;
+}
+	
+.secondary{
+	width:30%;
+	float:left;
+}
+
+.secondary ul{
+	padding:0;
+	
+	}
+
+.secondary ul li{
+	list-style:none;
+	padding:10px;
+	width:70%;
+	border:1px solid #ccc;		
+}
+	
+.primary{
+	width:70%;
+	float:left;
+	
+}
+
+.calender, .details{
+	width:48%;
+	float:left;
+	padding:5px;
+	}
